@@ -1,0 +1,5 @@
+fixed data
+faster than lists
+safe from accidental changes
+
+coordinates = (10 , 20)
